@@ -1,0 +1,1 @@
+# 1. buat folder dataset kosong di folder rootnya buat menampung hasil capture
